@@ -1,0 +1,22 @@
+{
+  "name": "npmtest",
+  "version": "0.0.1",
+  "description": "Test purpose",
+  "main": "npm-test.js",
+  "dependencies": {
+    "lodash": "^4.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Schmalte",
+  "license": "ISC"
+}
